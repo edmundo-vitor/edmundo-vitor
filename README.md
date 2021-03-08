@@ -15,8 +15,10 @@
 <br/>
 
 **Breve resumo** <br/>
+<br/>
 📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN. <br/>
 📖 No momento estou buscando me tornar um programador web back-end. <br/>
+<br/>
 
 **Estatísticas**  
 

@@ -15,7 +15,7 @@
 <br/>
 
 **Breve resumo** <br/>
-📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN. <br/>
+📚 Atualmente estou cursando ciência da computação na UFERSA - Mossoró/RN. <br/>
 📖 No momento estou buscando me tornar um programador web back-end. <br/>
 <br/>
 

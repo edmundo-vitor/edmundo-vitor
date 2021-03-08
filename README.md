@@ -21,12 +21,12 @@
 **Estatísticas**  
 
 <a href="https://github.com/edmundo-vitor">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundo-vitor&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundo-vitor&theme=react&show_icons=true" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/edmundo-vitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundo-vitor&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundo-vitor&theme=react&layout=compact" />
 </a>

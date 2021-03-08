@@ -1,6 +1,8 @@
 ### Olá, meu nome é Edmundo Vitor 👋
 
-**Redes sociais**  
+**Redes sociais**
+<br/>
+
 <a href="https://www.linkedin.com/in/edmundo-vitor">
   <img width="40px" src="https://i.imgur.com/uzhjqkw.png" />
 </a> &nbsp;
@@ -12,7 +14,7 @@
 <br/>
 <br/>
 
-**Breve resumo**  
+**Breve resumo** <br/>
 📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN. <br/>
 📖 No momento estou buscando me tornar um programador web back-end. <br/>
 

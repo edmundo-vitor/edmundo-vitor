@@ -8,6 +8,8 @@
   <img width="40px" src="https://i.imgur.com/odxDCn3.png" />
 </a> &nbsp;
 
+<br/>
+
 📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN. <br/>
 📖 No momento estou buscando me tornar um programador web back-end. <br/>
 
@@ -23,18 +25,3 @@
 <a href="https://github.com/edmundo-vitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundo-vitor&layout=compact" />
 </a>
-
-<!--
-**edmundo-vitor/edmundo-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

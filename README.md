@@ -1,11 +1,11 @@
 ### Olá, meu nome é Edmundo Vitor 👋
 
 <a href="https://www.linkedin.com/in/edmundo-vitor">
-  <img width="35px" src="https://imgur.com/uzhjqkw" />
+  <img width="35px" src="https://i.imgur.com/uzhjqkw.png" />
 </a> &nbsp;
 
 <a href="https://www.instagram.com/edmundo_vtr">
-  <img width="35px" src="https://imgur.com/odxDCn3" />
+  <img width="35px" src="https://i.imgur.com/odxDCn3.png" />
 </a> &nbsp;
 
 📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN.

@@ -8,14 +8,16 @@
   <img width="40px" src="https://i.imgur.com/odxDCn3.png" />
 </a> &nbsp;
 
-- 📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN.
-- 📖 No momento estou buscando me tornar um programador web back-end.
+📚 Atualmente estou no 4° período de ciência da computação na UFERSA - Mossoró/RN. <br/>
+📖 No momento estou buscando me tornar um programador web back-end. <br/>
 
 **Estatísticas**  
 
 <a href="https://github.com/edmundo-vitor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundo-vitor&show_icons=true" />
 </a>
+
+<br/>
 
 <a href="https://github.com/edmundo-vitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundo-vitor&layout=compact" />

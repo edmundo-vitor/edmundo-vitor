@@ -16,7 +16,7 @@
 
 **Breve resumo** <br/>
 📚 Atualmente estou cursando ciência da computação na UFERSA - Mossoró/RN. <br/>
-📖 No momento estou buscando me tornar um programador web back-end. <br/>
+📖 No momento estou buscando me tornar um programador web full-stack. <br/>
 <br/>
 
 **Estatísticas**  

@@ -15,8 +15,8 @@
 <br/>
 
 **Breve resumo** <br/>
-📚 Atualmente estou cursando ciência da computação na UFERSA - Mossoró/RN. <br/>
-📖 Trabalhando como bolsista desenvolvedor backend Java no Núcleo Acesso à Terra Urbanizada. <br/>
+📚 Atualmente estou cursando ciência da computação.<br/>
+📖 Trabalhando como analista de sistemas júnior na Confitec. <br/>
 <br/>
 
 **Estatísticas**  
